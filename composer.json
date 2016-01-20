@@ -1,6 +1,7 @@
 {
-    "name": "wy0727/getui-laravel",
-    "description": "GetuiSDK for Laravel,PSR-4 Autoloader support!",
+    "name": "wy0727/getui",
+    "description": "GetuiSDK,PSR-4 Autoloader support!",
+    "keywords": ["getui", "getuisdk", "getui-sdk", "getui-laravel"],
     "authors": [
         {
             "name": "wangxuyin",
